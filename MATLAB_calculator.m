@@ -67,7 +67,7 @@ parfor x = -dimen/dxy:dimen/dxy  %iterate over the x-axis grid
         totale = totale + eup + edown + emid;
     end
 end
-Eenergy = totale*keV % value of the E_Li-TMD(bare) descriptor
+Energy = totale*keV % value of the E_Li-TMD(bare) descriptor
 
 
 
