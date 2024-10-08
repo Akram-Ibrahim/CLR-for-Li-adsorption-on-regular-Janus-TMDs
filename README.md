@@ -6,5 +6,10 @@ A MATLAB code which was used to calculate one of the descriptors is provided wit
 A Jupyter notebook which was used to apply the CLR model to the dataset is also provided.
 
 
-![image](https://github.com/user-attachments/assets/beab4235-cdc5-4ec2-b519-bacae4e7f37f)
+![Predictions of adsorption energies](https://github.com/user-attachments/assets/beab4235-cdc5-4ec2-b519-bacae4e7f37f)
+
+**Figure**: Predictions of adsorption energies from the CLR model (`Ed_pred`) versus original DFT values (`Ed_DFT`).  
+- **Left plot (a)**: Categorizes data by material (color-coded) and the side of Li adsorption on Janus materials (indicated with up and down arrows). Includes data from all supercell sizes without distinction.
+- **Right plot (b)**: Organizes the same data by supercell size.
+
 
