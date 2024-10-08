@@ -5,6 +5,11 @@ A MATLAB code which was used to calculate one of the descriptors is provided wit
 
 A Jupyter notebook which was used to apply the CLR model to the dataset is also provided.
 
+This model is detailed in the paper:  
+**"Comprehensive Study of Lithium Adsorption and Diffusion on Janus Mo/WXY (X, Y = S, Se, Te) Using First-Principles and Machine Learning Approaches"**  
+[Read the full paper here](https://pubs.acs.org/doi/full/10.1021/acsami.1c05508).
+
+
 
 ![Predictions of adsorption energies](https://github.com/user-attachments/assets/beab4235-cdc5-4ec2-b519-bacae4e7f37f)
 
