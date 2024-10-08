@@ -4,3 +4,7 @@ This repository provides a cluster-wise linear regression (CLR) machine learning
 A MATLAB code which was used to calculate one of the descriptors is provided with a data.xlsx file to get the needed data from it. All other descriptors were obtained directly from DFT calculations. 
 
 A Jupyter notebook which was used to apply the CLR model to the dataset is also provided.
+
+
+![image](https://github.com/user-attachments/assets/beab4235-cdc5-4ec2-b519-bacae4e7f37f)
+
